@@ -1,0 +1,153 @@
+[
+  {
+    "name": "account",
+    "path": "/account",
+    "component": "/Users/akgngr/httpd/shopware-front/.shopware-pwa/source/pages/account.vue",
+    "chunkName": "pages/account",
+    "children": [
+      {
+        "path": "addresses",
+        "component": "/Users/akgngr/httpd/shopware-front/.shopware-pwa/source/pages/account/addresses.vue",
+        "chunkName": "pages/account/addresses",
+        "children": [
+          {
+            "name": "account-addresses",
+            "path": "",
+            "component": "/Users/akgngr/httpd/shopware-front/.shopware-pwa/source/pages/account/addresses/index.vue",
+            "chunkName": "pages/account/addresses/index",
+            "_name": "_57d27f77"
+          },
+          {
+            "name": "account-addresses-add",
+            "path": "add",
+            "component": "/Users/akgngr/httpd/shopware-front/.shopware-pwa/source/pages/account/addresses/add/index.vue",
+            "chunkName": "pages/account/addresses/add/index",
+            "_name": "_506ed909"
+          },
+          {
+            "name": "account-addresses-add-id",
+            "path": "add/:id",
+            "component": "/Users/akgngr/httpd/shopware-front/.shopware-pwa/source/pages/account/addresses/add/_id.vue",
+            "chunkName": "pages/account/addresses/add/_id",
+            "_name": "_6a7cec9e"
+          }
+        ],
+        "_name": "_5a60bff4"
+      },
+      {
+        "path": "orders",
+        "component": "/Users/akgngr/httpd/shopware-front/.shopware-pwa/source/pages/account/orders.vue",
+        "chunkName": "pages/account/orders",
+        "children": [
+          {
+            "name": "account-orders",
+            "path": "",
+            "component": "/Users/akgngr/httpd/shopware-front/.shopware-pwa/source/pages/account/orders/index.vue",
+            "chunkName": "pages/account/orders/index",
+            "_name": "_5a04cac6"
+          },
+          {
+            "name": "account-orders-id",
+            "path": ":id",
+            "component": "/Users/akgngr/httpd/shopware-front/.shopware-pwa/source/pages/account/orders/_id.vue",
+            "chunkName": "pages/account/orders/_id",
+            "_name": "_4bb2c6ae"
+          }
+        ],
+        "_name": "_54751afa"
+      },
+      {
+        "name": "account-profile",
+        "path": "profile",
+        "component": "/Users/akgngr/httpd/shopware-front/.shopware-pwa/source/pages/account/profile.vue",
+        "chunkName": "pages/account/profile",
+        "_name": "_597bd8fb"
+      },
+      {
+        "name": "account-recover-password",
+        "path": "recover/password",
+        "component": "/Users/akgngr/httpd/shopware-front/.shopware-pwa/source/pages/account/recover/password.vue",
+        "chunkName": "pages/account/recover/password",
+        "_name": "_27a0b684"
+      }
+    ],
+    "_name": "_fece6f3e"
+  },
+  {
+    "name": "checkout",
+    "path": "/checkout",
+    "component": "/Users/akgngr/httpd/shopware-front/.shopware-pwa/source/pages/checkout.vue",
+    "chunkName": "pages/checkout",
+    "_name": "_a97c737c"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "/Users/akgngr/httpd/shopware-front/.shopware-pwa/source/pages/login.vue",
+    "chunkName": "pages/login",
+    "_name": "_326bf2c6"
+  },
+  {
+    "name": "newsletter-subscribe",
+    "path": "/newsletter-subscribe",
+    "component": "/Users/akgngr/httpd/shopware-front/.shopware-pwa/source/pages/newsletter-subscribe.vue",
+    "chunkName": "pages/newsletter-subscribe",
+    "_name": "_7c36079c"
+  },
+  {
+    "name": "order-success",
+    "path": "/order-success",
+    "component": "/Users/akgngr/httpd/shopware-front/.shopware-pwa/source/pages/order-success.vue",
+    "chunkName": "pages/order-success",
+    "_name": "_b0889b90"
+  },
+  {
+    "name": "payment-failure",
+    "path": "/payment-failure",
+    "component": "/Users/akgngr/httpd/shopware-front/.shopware-pwa/source/pages/payment-failure.vue",
+    "chunkName": "pages/payment-failure",
+    "_name": "_66d7f012"
+  },
+  {
+    "name": "register",
+    "path": "/register",
+    "component": "/Users/akgngr/httpd/shopware-front/.shopware-pwa/source/pages/register.vue",
+    "chunkName": "pages/register",
+    "_name": "_236e9dc2"
+  },
+  {
+    "name": "reset-password",
+    "path": "/reset-password",
+    "component": "/Users/akgngr/httpd/shopware-front/.shopware-pwa/source/pages/reset-password.vue",
+    "chunkName": "pages/reset-password",
+    "_name": "_693b7456"
+  },
+  {
+    "name": "search",
+    "path": "/search",
+    "component": "/Users/akgngr/httpd/shopware-front/.shopware-pwa/source/pages/search.vue",
+    "chunkName": "pages/search",
+    "_name": "_32e8e6a4"
+  },
+  {
+    "name": "wishlist",
+    "path": "/wishlist",
+    "component": "/Users/akgngr/httpd/shopware-front/.shopware-pwa/source/pages/wishlist.vue",
+    "chunkName": "pages/wishlist",
+    "_name": "_4273d741"
+  },
+  {
+    "name": "registration-confirm",
+    "path": "/registration/confirm",
+    "component": "/Users/akgngr/httpd/shopware-front/.shopware-pwa/source/pages/registration/confirm.vue",
+    "chunkName": "pages/registration/confirm",
+    "_name": "_e1ffd734"
+  },
+  {
+    "name": "all",
+    "path": "/*",
+    "component": "/Users/akgngr/httpd/shopware-front/.shopware-pwa/source/pages/_.vue",
+    "chunkName": "pages/_",
+    "_name": "_f068cada"
+  }
+]
