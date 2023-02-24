@@ -1,7 +1,7 @@
 import { computed } from "vue-demi";
 import { useSharedState } from "@shopware-pwa/composables";
 
-const allowDevMode = "true" === "true";
+const allowDevMode = "true" === "false";
 
 export function usePlugins() {
   const { sharedRef } = useSharedState();

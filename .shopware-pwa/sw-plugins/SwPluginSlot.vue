@@ -9,8 +9,6 @@ import { usePlugins } from "./usePlugins";
 
 const pluginsMap = {
   
-    "footer-content": () => import("sw-plugins/SwPluginSlotPlaceholderSwitcher.vue"),
-  
 }
 
 Vue.component("sw-plugin-empty-slot", {
